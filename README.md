@@ -7,8 +7,8 @@
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jainish-dabgar-8b8b20189)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/dabgar.jainish.29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/jainish-dabgar-8b8b20189](https://www.linkedin.com/in/jainish-dabgar-87474a320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)]([https://www.instagram.com/dabgar.jainish.29](https://www.instagram.com/dabgar_jainish_2901?igsh=b3Q3aXRhNmQxZmox))
 
 ---
 
