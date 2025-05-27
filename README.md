@@ -22,4 +22,3 @@
 
 ---
 
-![Jainish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jainish-2901&show_icons=true&theme=tokyonight)
