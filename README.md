@@ -86,6 +86,7 @@
 ⚡ From lines of code to 3D components, I build modern web platforms without operational overhead.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jainish-2901&show_icons=true&theme=tokyonight&count_private=true" alt="Jainish's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainish-2901&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <!-- Vercel mirror instance path with private commits enabled -->
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Jainish-2901&show_icons=true&theme=tokyonight&count_private=true" alt="Jainish's GitHub stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Jainish-2901&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
