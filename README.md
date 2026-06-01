@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://jainishdabgar.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black&black" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio" />
   </a>
 </p>
 
@@ -86,7 +86,5 @@
 ⚡ From lines of code to 3D components, I build modern web platforms without operational overhead.
 
 <p align="left">
-  <!-- Vercel mirror instance path with private commits enabled -->
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Jainish-2901&show_icons=true&theme=tokyonight&count_private=true" alt="Jainish's GitHub stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Jainish-2901&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jainish-2901&theme=tokyonight" alt="Jainish's GitHub Streak" />
 </p>
